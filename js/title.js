@@ -1,7 +1,7 @@
 const titles = [
     'killsec.lol',
     'ambition',
-    '/info',
+    'syvora',
     'gorestars',
 ];
 let currentTitleIndex = 0;
