@@ -12,7 +12,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     const titleButtons = document.querySelectorAll(".title-buttons button");
     titleButtons[0].addEventListener("click", () => {
-        window.open("https://discord.gg/");
+        window.open("https://discord.gg/BPNzTxFh");
     });
     titleButtons[1].addEventListener("click", () => {
         window.open("https://killsec.lol/");
